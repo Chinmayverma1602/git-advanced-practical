@@ -1,2 +1,3 @@
 This is file2 v2
 updated content v2
+Minor change in file2 
